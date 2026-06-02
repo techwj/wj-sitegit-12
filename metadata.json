@@ -1,0 +1,59 @@
+{
+  "siteId": "jiangsu-zhejiang-local-cuisine",
+  "generatedAt": "2026-06-02T15:38:15.107543",
+  "categories": [
+    "beginner-jiangsu-zhejiang-local-cuisine",
+    "advanced-jiangsu-zhejiang-local-cuisine",
+    "tips-jiangsu-zhejiang-local-cuisine",
+    "history-jiangsu-zhejiang-local-cuisine",
+    "trending-jiangsu-zhejiang-local-cuisine",
+    "tutorials-jiangsu-zhejiang-local-cuisine"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-jiangsu-zhejiang-local-cuisine",
+      "category_name": "Beginner Jiangsu Zhejiang Local Cuisine"
+    },
+    {
+      "category_slug": "advanced-jiangsu-zhejiang-local-cuisine",
+      "category_name": "Advanced Jiangsu Zhejiang Local Cuisine"
+    },
+    {
+      "category_slug": "tips-jiangsu-zhejiang-local-cuisine",
+      "category_name": "Jiangsu Zhejiang Local Cuisine Tips"
+    },
+    {
+      "category_slug": "history-jiangsu-zhejiang-local-cuisine",
+      "category_name": "Jiangsu Zhejiang Local Cuisine History"
+    },
+    {
+      "category_slug": "trending-jiangsu-zhejiang-local-cuisine",
+      "category_name": "Trending Jiangsu Zhejiang Local Cuisine"
+    },
+    {
+      "category_slug": "tutorials-jiangsu-zhejiang-local-cuisine",
+      "category_name": "Jiangsu Zhejiang Local Cuisine Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "jiangsu-zhejiang-local-cuisine",
+    "color_scheme": {
+      "name": "Ocean Blue",
+      "primary": "#1e3a8a",
+      "secondary": "#3b82f6",
+      "accent": "#60a5fa",
+      "background": "#f8fafc",
+      "text": "#1e293b",
+      "light": "#f1f5f9"
+    },
+    "font": {
+      "family": "Inter, system-ui, -apple-system, sans-serif",
+      "heading": "Inter",
+      "body": "Inter"
+    },
+    "layout": "topbar",
+    "site_title": "Jiangsu Zhejiang Local Cuisine Central",
+    "articles_per_row": 1
+  }
+}

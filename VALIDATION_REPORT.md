@@ -1,0 +1,88 @@
+# Validation Report - jiangsu-zhejiang-local-cuisine
+
+Generated: 2026-06-02T15:38:15.107405
+
+## Passed
+
+- ✓ Required file exists: privacy.html
+- ✓ Required file exists: cookie-policy.html
+- ✓ Required file exists: terms.html
+- ✓ Required file exists: ad-policy.html
+- ✓ Required file exists: contact.html
+- ✓ Required file exists: about.html
+- ✓ Required file exists: dmca.html
+- ✓ Required file exists: accessibility.html
+- ✓ Suggested file exists: data-request.html
+- ✓ Suggested file exists: do-not-sell.html
+- ✓ Suggested file exists: third-party-disclosure.html
+- ✓ Suggested file exists: disclaimer.html
+- ✓ Suggested file exists: external-link-policy.html
+- ✓ Suggested file exists: content-policy.html
+- ✓ Suggested file exists: security-policy.html
+- ✓ Suggested file exists: children-privacy.html
+- ✓ Suggested file exists: refund-policy.html
+- ✓ Suggested file exists: faq.html
+- ✓ Suggested file exists: press-kit.html
+- ✓ Suggested file exists: feedback.html
+- ✓ Suggested file exists: code-of-conduct.html
+- ✓ Article word count OK: The Ultimate Guide to Beginner Jiangsu Zhejiang Local Cuisine
+- ✓ Article word count OK: Beginner Jiangsu Zhejiang Local Cuisine: Everything You Need to Know
+- ✓ Article word count OK: Understanding Beginner Jiangsu Zhejiang Local Cuisine
+- ✓ Article word count OK: Beginner Jiangsu Zhejiang Local Cuisine Tips and Best Practices
+- ✓ Article word count OK: The History of Beginner Jiangsu Zhejiang Local Cuisine
+- ✓ Article word count OK: Beginner Jiangsu Zhejiang Local Cuisine in 2026: Current Trends
+- ✓ Article word count OK: Future of Beginner Jiangsu Zhejiang Local Cuisine
+- ✓ Article word count OK: Common Mistakes in Beginner Jiangsu Zhejiang Local Cuisine
+- ✓ Article word count OK: Beginner Jiangsu Zhejiang Local Cuisine for Beginners
+- ✓ Article word count OK: Advanced Beginner Jiangsu Zhejiang Local Cuisine Techniques
+- ✓ Article word count OK: The Ultimate Guide to Advanced Jiangsu Zhejiang Local Cuisine
+- ✓ Article word count OK: Advanced Jiangsu Zhejiang Local Cuisine: Everything You Need to Know
+- ✓ Article word count OK: Understanding Advanced Jiangsu Zhejiang Local Cuisine
+- ✓ Article word count OK: Advanced Jiangsu Zhejiang Local Cuisine Tips and Best Practices
+- ✓ Article word count OK: The History of Advanced Jiangsu Zhejiang Local Cuisine
+- ✓ Article word count OK: Advanced Jiangsu Zhejiang Local Cuisine in 2026: Current Trends
+- ✓ Article word count OK: Future of Advanced Jiangsu Zhejiang Local Cuisine
+- ✓ Article word count OK: Common Mistakes in Advanced Jiangsu Zhejiang Local Cuisine
+- ✓ Article word count OK: Advanced Jiangsu Zhejiang Local Cuisine for Beginners
+- ✓ Article word count OK: Advanced Advanced Jiangsu Zhejiang Local Cuisine Techniques
+- ✓ Article word count OK: The Ultimate Guide to Jiangsu Zhejiang Local Cuisine Tips
+- ✓ Article word count OK: Jiangsu Zhejiang Local Cuisine Tips: Everything You Need to Know
+- ✓ Article word count OK: Understanding Jiangsu Zhejiang Local Cuisine Tips
+- ✓ Article word count OK: Jiangsu Zhejiang Local Cuisine Tips Tips and Best Practices
+- ✓ Article word count OK: The History of Jiangsu Zhejiang Local Cuisine Tips
+- ✓ Article word count OK: Jiangsu Zhejiang Local Cuisine Tips in 2026: Current Trends
+- ✓ Article word count OK: Future of Jiangsu Zhejiang Local Cuisine Tips
+- ✓ Article word count OK: Common Mistakes in Jiangsu Zhejiang Local Cuisine Tips
+- ✓ Article word count OK: Jiangsu Zhejiang Local Cuisine Tips for Beginners
+- ✓ Article word count OK: Advanced Jiangsu Zhejiang Local Cuisine Tips Techniques
+- ✓ Article word count OK: The Ultimate Guide to Jiangsu Zhejiang Local Cuisine History
+- ✓ Article word count OK: Jiangsu Zhejiang Local Cuisine History: Everything You Need to Know
+- ✓ Article word count OK: Understanding Jiangsu Zhejiang Local Cuisine History
+- ✓ Article word count OK: Jiangsu Zhejiang Local Cuisine History Tips and Best Practices
+- ✓ Article word count OK: The History of Jiangsu Zhejiang Local Cuisine History
+- ✓ Article word count OK: Jiangsu Zhejiang Local Cuisine History in 2026: Current Trends
+- ✓ Article word count OK: Future of Jiangsu Zhejiang Local Cuisine History
+- ✓ Article word count OK: Common Mistakes in Jiangsu Zhejiang Local Cuisine History
+- ✓ Article word count OK: Jiangsu Zhejiang Local Cuisine History for Beginners
+- ✓ Article word count OK: Advanced Jiangsu Zhejiang Local Cuisine History Techniques
+- ✓ Article word count OK: The Ultimate Guide to Trending Jiangsu Zhejiang Local Cuisine
+- ✓ Article word count OK: Trending Jiangsu Zhejiang Local Cuisine: Everything You Need to Know
+- ✓ Article word count OK: Understanding Trending Jiangsu Zhejiang Local Cuisine
+- ✓ Article word count OK: Trending Jiangsu Zhejiang Local Cuisine Tips and Best Practices
+- ✓ Article word count OK: The History of Trending Jiangsu Zhejiang Local Cuisine
+- ✓ Article word count OK: Trending Jiangsu Zhejiang Local Cuisine in 2026: Current Trends
+- ✓ Article word count OK: Future of Trending Jiangsu Zhejiang Local Cuisine
+- ✓ Article word count OK: Common Mistakes in Trending Jiangsu Zhejiang Local Cuisine
+- ✓ Article word count OK: Trending Jiangsu Zhejiang Local Cuisine for Beginners
+- ✓ Article word count OK: Advanced Trending Jiangsu Zhejiang Local Cuisine Techniques
+- ✓ Article word count OK: The Ultimate Guide to Jiangsu Zhejiang Local Cuisine Tutorials
+- ✓ Article word count OK: Jiangsu Zhejiang Local Cuisine Tutorials: Everything You Need to Know
+- ✓ Article word count OK: Understanding Jiangsu Zhejiang Local Cuisine Tutorials
+- ✓ Article word count OK: Jiangsu Zhejiang Local Cuisine Tutorials Tips and Best Practices
+- ✓ Article word count OK: The History of Jiangsu Zhejiang Local Cuisine Tutorials
+- ✓ Article word count OK: Jiangsu Zhejiang Local Cuisine Tutorials in 2026: Current Trends
+- ✓ Article word count OK: Future of Jiangsu Zhejiang Local Cuisine Tutorials
+- ✓ Article word count OK: Common Mistakes in Jiangsu Zhejiang Local Cuisine Tutorials
+- ✓ Article word count OK: Jiangsu Zhejiang Local Cuisine Tutorials for Beginners
+- ✓ Article word count OK: Advanced Jiangsu Zhejiang Local Cuisine Tutorials Techniques
+- ✓ Ad configuration validated
